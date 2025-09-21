@@ -14,6 +14,7 @@ Mainly I develop in:
 
 Minecraft Server/Plugin development & Eaglercraft client making 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turbomaxe)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
