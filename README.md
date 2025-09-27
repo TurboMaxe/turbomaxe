@@ -18,6 +18,5 @@ Minecraft Server/Plugin development & Eaglercraft client making
 
 
 
-https://camo.githubusercontent.com/d11c1e5ea878b9a4b101e75574e0dab1edca5a6d40eb654bd0c19712a094342c/68747470733a2f2f626c656163682e6465762f7374617469632f696d672f747970696e672e77656270
 
 
