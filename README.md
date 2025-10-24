@@ -14,7 +14,7 @@ Mainly I develop in:
 
 Minecraft Server/Plugin development & Eaglercraft client making 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turbomaxe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turbomaxe&layout=compact)
 
 
 
